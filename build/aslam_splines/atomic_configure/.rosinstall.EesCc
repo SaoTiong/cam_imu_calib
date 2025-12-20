@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /calibration_ws/devel/.private/aslam_splines/setup.sh

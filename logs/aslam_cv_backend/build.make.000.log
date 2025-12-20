@@ -1,0 +1,30 @@
+[35m[1mScanning dependencies of target aslam_cv_backend[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/aslam_cv_backend.dir/src/GridCalibrationTargetDesignVariableContainer.cpp.o[0m
+In file included from [01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cameras/include/aslam/targets.hpp:5[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cv_backend/include/aslam/GridCalibrationTargetDesignVariableContainer.hpp:5[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cv_backend/src/GridCalibrationTargetDesignVariableContainer.cpp:1[m[K:
+[01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cameras/include/aslam/cameras/GridCalibrationTargetCheckerboard.hpp:[m[K In constructor ‘[01m[Kaslam::cameras::GridCalibrationTargetCheckerboard::CheckerboardOptions::CheckerboardOptions()[m[K’:
+[01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cameras/include/aslam/cameras/GridCalibrationTargetCheckerboard.hpp:43:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kaslam::cameras::GridCalibrationTargetCheckerboard::CheckerboardOptions::showExtractionVideo[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+   43 |     bool [01;35m[KshowExtractionVideo[m[K;
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cameras/include/aslam/cameras/GridCalibrationTargetCheckerboard.hpp:40:18:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kunsigned int aslam::cameras::GridCalibrationTargetCheckerboard::CheckerboardOptions::windowWidth[m[K’ [[01;35m[K-Wreorder[m[K]
+   40 |     unsigned int [01;35m[KwindowWidth[m[K;
+      |                  [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cameras/include/aslam/cameras/GridCalibrationTargetCheckerboard.hpp:25:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   25 |     [01;35m[KCheckerboardOptions[m[K() :
+      |     [01;35m[K^~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/DesignVariable.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/JacobianContainer.hpp:8[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_expressions/include/aslam/backend/EuclideanExpressionNode.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_expressions/include/aslam/backend/MappedEuclideanPoint.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cv_backend/include/aslam/GridCalibrationTargetDesignVariableContainer.hpp:6[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cv_backend/src/GridCalibrationTargetDesignVariableContainer.cpp:1[m[K:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:[m[K In member function ‘[01m[Ksm::Id sm::Id::operator++(int)[m[K’:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:122:14:[m[K [01;35m[Kwarning: [m[Kimplicitly-declared ‘[01m[Kconstexpr sm::Id::Id(const sm::Id&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-copy[m[K]
+  122 |       return [01;35m[Krval[m[K;
+      |              [01;35m[K^~~~[m[K
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:132:9:[m[K [01;36m[Knote: [m[Kbecause ‘[01m[Ksm::Id[m[K’ has user-provided ‘[01m[Ksm::Id& sm::Id::operator=(const sm::Id&)[m[K’
+  132 |     Id& [01;36m[Koperator[m[K= (const Id& other)
+      |         [01;36m[K^~~~~~~~[m[K
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/aslam_cv_backend/lib/libaslam_cv_backend.so[0m
+[100%] Built target aslam_cv_backend

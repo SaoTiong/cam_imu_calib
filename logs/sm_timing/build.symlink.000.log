@@ -1,0 +1,4 @@
+Symlinking /calibration_ws/devel/lib/libsm_timing.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/sm_timing.pc
+Symlinking /calibration_ws/devel/share/sm_timing/cmake/sm_timingConfig-version.cmake
+Symlinking /calibration_ws/devel/share/sm_timing/cmake/sm_timingConfig.cmake

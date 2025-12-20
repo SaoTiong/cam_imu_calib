@@ -1,0 +1,5 @@
+execute_process(COMMAND "/calibration_ws/build/aslam_cameras_april/catkin_generated/python_distutils_install.sh" RESULT_VARIABLE res)
+
+if(NOT res EQUAL 0)
+  message(FATAL_ERROR "execute_process(/calibration_ws/build/aslam_cameras_april/catkin_generated/python_distutils_install.sh) returned error code ")
+endif()

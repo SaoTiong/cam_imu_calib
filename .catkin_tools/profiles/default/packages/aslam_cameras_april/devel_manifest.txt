@@ -1,0 +1,8 @@
+kalibr/aslam_cv/aslam_cameras_april
+/calibration_ws/devel/.private/aslam_cameras_april/lib/libaslam_cameras_april.so /calibration_ws/devel/lib/libaslam_cameras_april.so
+/calibration_ws/devel/.private/aslam_cameras_april/lib/libaslam_cameras_april_python.so /calibration_ws/devel/lib/libaslam_cameras_april_python.so
+/calibration_ws/devel/.private/aslam_cameras_april/lib/python3/dist-packages/aslam_cameras_april/__init__.py /calibration_ws/devel/lib/python3/dist-packages/aslam_cameras_april/__init__.py
+/calibration_ws/devel/.private/aslam_cameras_april/lib/python3/dist-packages/aslam_cameras_april/libaslam_cameras_april_python.so /calibration_ws/devel/lib/python3/dist-packages/aslam_cameras_april/libaslam_cameras_april_python.so
+/calibration_ws/devel/.private/aslam_cameras_april/lib/pkgconfig/aslam_cameras_april.pc /calibration_ws/devel/lib/pkgconfig/aslam_cameras_april.pc
+/calibration_ws/devel/.private/aslam_cameras_april/share/aslam_cameras_april/cmake/aslam_cameras_aprilConfig-version.cmake /calibration_ws/devel/share/aslam_cameras_april/cmake/aslam_cameras_aprilConfig-version.cmake
+/calibration_ws/devel/.private/aslam_cameras_april/share/aslam_cameras_april/cmake/aslam_cameras_aprilConfig.cmake /calibration_ws/devel/share/aslam_cameras_april/cmake/aslam_cameras_aprilConfig.cmake

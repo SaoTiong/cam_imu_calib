@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/sm_kinematics/lib/pkgconfig/sm_kinematics.pc

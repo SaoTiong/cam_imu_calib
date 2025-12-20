@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/bsplines/lib/pkgconfig/bsplines.pc

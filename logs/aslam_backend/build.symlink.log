@@ -1,0 +1,4 @@
+Symlinking /calibration_ws/devel/lib/libaslam_backend.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/aslam_backend.pc
+Symlinking /calibration_ws/devel/share/aslam_backend/cmake/aslam_backendConfig.cmake
+Symlinking /calibration_ws/devel/share/aslam_backend/cmake/aslam_backendConfig-version.cmake

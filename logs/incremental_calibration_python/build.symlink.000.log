@@ -1,0 +1,6 @@
+Symlinking /calibration_ws/devel/lib/libincremental_calibration_python.so
+Symlinking /calibration_ws/devel/lib/python3/dist-packages/incremental_calibration/__init__.py
+Symlinking /calibration_ws/devel/lib/python3/dist-packages/incremental_calibration/libincremental_calibration_python.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/incremental_calibration_python.pc
+Symlinking /calibration_ws/devel/share/incremental_calibration_python/cmake/incremental_calibration_pythonConfig-version.cmake
+Symlinking /calibration_ws/devel/share/incremental_calibration_python/cmake/incremental_calibration_pythonConfig.cmake

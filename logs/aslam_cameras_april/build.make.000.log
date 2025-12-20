@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target aslam_cameras_april[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/aslam_cameras_april.dir/src/GridCalibrationTargetAprilgrid.cpp.o[0m
+[01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cameras_april/src/GridCalibrationTargetAprilgrid.cpp:[m[K In member function ‘[01m[Kvirtual bool aslam::cameras::GridCalibrationTargetAprilgrid::computeObservation(const cv::Mat&, Eigen::MatrixXd&, std::vector<bool>&) const[m[K’:
+[01m[K/calibration_ws/src/kalibr/aslam_cv/aslam_cameras_april/src/GridCalibrationTargetAprilgrid.cpp:175:27:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<AprilTags::TagDetection>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  175 |         for (int j = 0; [01;35m[Kj < detections.size() - 1[m[K; j++) {
+      |                         [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 50%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/aslam_cameras_april/lib/libaslam_cameras_april.so[0m
+[ 50%] Built target aslam_cameras_april
+[35m[1mScanning dependencies of target aslam_cameras_april_python[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/aslam_cameras_april_python.dir/src/module.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/aslam_cameras_april/lib/libaslam_cameras_april_python.so[0m
+[34m[1mCopying library files to python directory[0m
+'/calibration_ws/devel/.private/aslam_cameras_april/lib/libaslam_cameras_april_python.so' -> '/calibration_ws/devel/.private/aslam_cameras_april/lib/python3/dist-packages/aslam_cameras_april/libaslam_cameras_april_python.so'
+[100%] Built target aslam_cameras_april_python

@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target sm_kinematics[0m
+[  6%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/quaternion_algebra.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/rotations.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/transformations.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/RotationalKinematics.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/RotationVector.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/EulerAnglesZYX.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/EulerAnglesYawPitchRoll.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/EulerRodriguez.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/Transformation.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/homogeneous_coordinates.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/HomogeneousPoint.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/UncertainTransformation.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/UncertainHomogeneousPoint.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/three_point_methods.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/sm_kinematics.dir/src/EulerAnglesZXY.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/sm_kinematics/lib/libsm_kinematics.so[0m
+[100%] Built target sm_kinematics

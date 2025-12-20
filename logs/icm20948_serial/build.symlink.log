@@ -1,0 +1,4 @@
+Linked: (/calibration_ws/devel/.private/icm20948_serial/lib/icm20948_serial/icm20948_serial_node.py, /calibration_ws/devel/lib/icm20948_serial/icm20948_serial_node.py)
+Linked: (/calibration_ws/devel/.private/icm20948_serial/lib/pkgconfig/icm20948_serial.pc, /calibration_ws/devel/lib/pkgconfig/icm20948_serial.pc)
+Linked: (/calibration_ws/devel/.private/icm20948_serial/share/icm20948_serial/cmake/icm20948_serialConfig-version.cmake, /calibration_ws/devel/share/icm20948_serial/cmake/icm20948_serialConfig-version.cmake)
+Linked: (/calibration_ws/devel/.private/icm20948_serial/share/icm20948_serial/cmake/icm20948_serialConfig.cmake, /calibration_ws/devel/share/icm20948_serial/cmake/icm20948_serialConfig.cmake)

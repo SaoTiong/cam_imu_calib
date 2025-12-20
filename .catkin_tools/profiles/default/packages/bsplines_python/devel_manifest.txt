@@ -1,0 +1,7 @@
+kalibr/aslam_nonparametric_estimation/bsplines_python
+/calibration_ws/devel/.private/bsplines_python/lib/libbsplines_python.so /calibration_ws/devel/lib/libbsplines_python.so
+/calibration_ws/devel/.private/bsplines_python/lib/python3/dist-packages/bsplines/__init__.py /calibration_ws/devel/lib/python3/dist-packages/bsplines/__init__.py
+/calibration_ws/devel/.private/bsplines_python/lib/python3/dist-packages/bsplines/libbsplines_python.so /calibration_ws/devel/lib/python3/dist-packages/bsplines/libbsplines_python.so
+/calibration_ws/devel/.private/bsplines_python/lib/pkgconfig/bsplines_python.pc /calibration_ws/devel/lib/pkgconfig/bsplines_python.pc
+/calibration_ws/devel/.private/bsplines_python/share/bsplines_python/cmake/bsplines_pythonConfig-version.cmake /calibration_ws/devel/share/bsplines_python/cmake/bsplines_pythonConfig-version.cmake
+/calibration_ws/devel/.private/bsplines_python/share/bsplines_python/cmake/bsplines_pythonConfig.cmake /calibration_ws/devel/share/bsplines_python/cmake/bsplines_pythonConfig.cmake

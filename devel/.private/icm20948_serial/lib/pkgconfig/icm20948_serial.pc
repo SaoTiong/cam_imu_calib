@@ -1,0 +1,8 @@
+prefix=/calibration_ws/devel/.private/icm20948_serial
+
+Name: icm20948_serial
+Description: Description of icm20948_serial
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

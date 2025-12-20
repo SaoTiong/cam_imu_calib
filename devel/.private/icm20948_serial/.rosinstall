@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /calibration_ws/devel/.private/icm20948_serial/setup.sh

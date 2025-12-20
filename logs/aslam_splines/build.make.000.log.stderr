@@ -1,0 +1,37 @@
+In file included from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/DesignVariable.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/JacobianContainer.hpp:8[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_expressions/include/aslam/backend/DesignVariableMappedVector.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/include/aslam/splines/BSplinePoseDesignVariable.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/src/BSplinePoseDesignVariable.cpp:1[m[K:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:[m[K In member function ‘[01m[Ksm::Id sm::Id::operator++(int)[m[K’:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:122:14:[m[K [01;35m[Kwarning: [m[Kimplicitly-declared ‘[01m[Kconstexpr sm::Id::Id(const sm::Id&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-copy[m[K]
+  122 |       return [01;35m[Krval[m[K;
+      |              [01;35m[K^~~~[m[K
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:132:9:[m[K [01;36m[Knote: [m[Kbecause ‘[01m[Ksm::Id[m[K’ has user-provided ‘[01m[Ksm::Id& sm::Id::operator=(const sm::Id&)[m[K’
+  132 |     Id& [01;36m[Koperator[m[K= (const Id& other)
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/DesignVariable.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/JacobianContainer.hpp:8[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_expressions/include/aslam/backend/DesignVariableMappedVector.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/include/aslam/splines/BSplineDesignVariable.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/include/aslam/splines/EuclideanBSplineDesignVariable.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/src/EuclideanBSplineDesignVariable.cpp:1[m[K:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:[m[K In member function ‘[01m[Ksm::Id sm::Id::operator++(int)[m[K’:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:122:14:[m[K [01;35m[Kwarning: [m[Kimplicitly-declared ‘[01m[Kconstexpr sm::Id::Id(const sm::Id&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-copy[m[K]
+  122 |       return [01;35m[Krval[m[K;
+      |              [01;35m[K^~~~[m[K
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:132:9:[m[K [01;36m[Knote: [m[Kbecause ‘[01m[Ksm::Id[m[K’ has user-provided ‘[01m[Ksm::Id& sm::Id::operator=(const sm::Id&)[m[K’
+  132 |     Id& [01;36m[Koperator[m[K= (const Id& other)
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/DesignVariable.hpp:4[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include/aslam/backend/JacobianContainer.hpp:8[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_expressions/include/aslam/backend/TransformationExpression.hpp:6[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/include/aslam/splines/BSplineExpressions.hpp:6[m[K,
+                 from [01m[K/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/src/BSplineExpressions.cpp:1[m[K:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:[m[K In member function ‘[01m[Ksm::Id sm::Id::operator++(int)[m[K’:
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:122:14:[m[K [01;35m[Kwarning: [m[Kimplicitly-declared ‘[01m[Kconstexpr sm::Id::Id(const sm::Id&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-copy[m[K]
+  122 |       return [01;35m[Krval[m[K;
+      |              [01;35m[K^~~~[m[K
+[01m[K/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include/sm/Id.hpp:132:9:[m[K [01;36m[Knote: [m[Kbecause ‘[01m[Ksm::Id[m[K’ has user-provided ‘[01m[Ksm::Id& sm::Id::operator=(const sm::Id&)[m[K’
+  132 |     Id& [01;36m[Koperator[m[K= (const Id& other)
+      |         [01;36m[K^~~~~~~~[m[K

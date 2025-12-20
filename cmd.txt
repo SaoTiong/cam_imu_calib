@@ -1,0 +1,4 @@
+docker run -it --net=host   -e DISPLAY -e QT_X11_NO_MITSHM=1   -v /tmp/.X11-unix:/tmp/.X11-unix:rw   -v /home/dwe/DWE/calibration_ws:/calibration_ws   -v /home/dwe/DWE/rosbags:/data   --device /dev/video2 --device /dev/video4   -v /dev/bus/usb:/dev/bus/usb  --device /dev/dri  -v /usr/lib/x86_64-linux-gnu/dri:/usr/lib/x86_64-linux-gnu/dri kalibr
+
+
+docker run -it --net=host   -e DISPLAY -e QT_X11_NO_MITSHM=1   -v /tmp/.X11-unix:/tmp/.X11-unix:rw   -v /home/dwe/DWE/calibration_ws:/calibration_ws   -v /home/dwe/DWE/rosbags:/data   --device /dev/video2 --device /dev/video4   -v /dev/bus/usb:/dev/bus/usb  --device /dev/dri kalibr

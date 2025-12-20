@@ -1,0 +1,5 @@
+kalibr/aslam_cv/aslam_cv_backend
+/calibration_ws/devel/.private/aslam_cv_backend/lib/libaslam_cv_backend.so /calibration_ws/devel/lib/libaslam_cv_backend.so
+/calibration_ws/devel/.private/aslam_cv_backend/lib/pkgconfig/aslam_cv_backend.pc /calibration_ws/devel/lib/pkgconfig/aslam_cv_backend.pc
+/calibration_ws/devel/.private/aslam_cv_backend/share/aslam_cv_backend/cmake/aslam_cv_backendConfig-version.cmake /calibration_ws/devel/share/aslam_cv_backend/cmake/aslam_cv_backendConfig-version.cmake
+/calibration_ws/devel/.private/aslam_cv_backend/share/aslam_cv_backend/cmake/aslam_cv_backendConfig.cmake /calibration_ws/devel/share/aslam_cv_backend/cmake/aslam_cv_backendConfig.cmake

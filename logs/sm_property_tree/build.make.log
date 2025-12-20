@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target sm_property_tree[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/sm_property_tree.dir/src/PropertyTree.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/sm_property_tree.dir/src/BoostPropertyTreeImplementation.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sm_property_tree.dir/src/BoostPropertyTree.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/sm_property_tree.dir/src/PropertyTreeImplementation.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/sm_property_tree.dir/src/BoostPropertyTreeSupport.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/sm_property_tree/lib/libsm_property_tree.so[0m
+[100%] Built target sm_property_tree

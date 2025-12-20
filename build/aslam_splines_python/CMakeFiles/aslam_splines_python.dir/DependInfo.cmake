@@ -1,0 +1,52 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines_python/src/BSplineMotionError.cpp" "/calibration_ws/build/aslam_splines_python/CMakeFiles/aslam_splines_python.dir/src/BSplineMotionError.cpp.o"
+  "/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines_python/src/SimpleSplineError.cpp" "/calibration_ws/build/aslam_splines_python/CMakeFiles/aslam_splines_python.dir/src/SimpleSplineError.cpp.o"
+  "/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines_python/src/spline_module.cpp" "/calibration_ws/build/aslam_splines_python/CMakeFiles/aslam_splines_python.dir/src/spline_module.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "BOOST_ALL_NO_LIB"
+  "BOOST_PYTHON_DYN_LINK"
+  "ROS_BUILD_SHARED_LIBS=1"
+  "aslam_splines_python_EXPORTS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/usr/include/eigen3"
+  "/usr/include/suitesparse"
+  "/calibration_ws/src/kalibr/aslam_cv/aslam_time/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/numpy_eigen/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_boost/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_logging/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_opencv/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_property_tree/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_random/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_eigen/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_kinematics/include"
+  "/calibration_ws/src/kalibr/aslam_cv/aslam_cameras/include"
+  "/calibration_ws/src/kalibr/Schweizer-Messer/sm_timing/include"
+  "/calibration_ws/src/kalibr/aslam_optimizer/sparse_block_matrix/include"
+  "/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend/include"
+  "/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_expressions/include"
+  "/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_python/include"
+  "/calibration_ws/src/kalibr/aslam_nonparametric_estimation/bsplines/include"
+  "/calibration_ws/src/kalibr/aslam_nonparametric_estimation/aslam_splines/include"
+  "/usr/include/python3.8"
+  "/usr/include/opencv4"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

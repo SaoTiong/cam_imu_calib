@@ -1,0 +1,5 @@
+Symlinking /calibration_ws/devel/lib/libsm_eigen.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/sm_eigen.pc
+Symlinking /calibration_ws/devel/share/sm_eigen/cmake/sm_eigenConfig-version.cmake
+Symlinking /calibration_ws/devel/share/sm_eigen/cmake/sm_eigenConfig.cmake
+Symlinking /calibration_ws/devel/share/sm_eigen/cmake/sm_eigen-extras.cmake

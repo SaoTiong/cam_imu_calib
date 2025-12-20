@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target bsplines_python[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/bsplines_python.dir/src/SplinePython.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/bsplines_python.dir/src/BSplinePython.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/bsplines_python.dir/src/BSplinePosePython.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/bsplines_python/lib/libbsplines_python.so[0m
+[34m[1mCopying library files to python directory[0m
+'/calibration_ws/devel/.private/bsplines_python/lib/libbsplines_python.so' -> '/calibration_ws/devel/.private/bsplines_python/lib/python3/dist-packages/bsplines/libbsplines_python.so'
+[100%] Built target bsplines_python

@@ -1,0 +1,4 @@
+Symlinking /calibration_ws/devel/lib/libaslam_cv_backend.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/aslam_cv_backend.pc
+Symlinking /calibration_ws/devel/share/aslam_cv_backend/cmake/aslam_cv_backendConfig-version.cmake
+Symlinking /calibration_ws/devel/share/aslam_cv_backend/cmake/aslam_cv_backendConfig.cmake

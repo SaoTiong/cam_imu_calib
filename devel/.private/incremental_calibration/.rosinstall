@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /calibration_ws/devel/.private/incremental_calibration/setup.sh

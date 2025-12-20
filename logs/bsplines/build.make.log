@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target bsplines[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/bsplines.dir/src/BSpline.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/bsplines.dir/src/BSplinePose.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/bsplines/lib/libbsplines.so[0m
+[100%] Built target bsplines

@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/opencv2_catkin/lib/pkgconfig/opencv2_catkin.pc

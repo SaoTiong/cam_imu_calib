@@ -1,0 +1,4 @@
+imu_topic: "/icm20948/imu"
+imu_rate: 400
+measure_rate: 400
+sequence_time: 50000 # minimum 3 hours recommended

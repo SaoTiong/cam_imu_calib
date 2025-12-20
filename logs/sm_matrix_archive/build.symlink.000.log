@@ -1,0 +1,4 @@
+Symlinking /calibration_ws/devel/lib/libsm_matrix_archive.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/sm_matrix_archive.pc
+Symlinking /calibration_ws/devel/share/sm_matrix_archive/cmake/sm_matrix_archiveConfig.cmake
+Symlinking /calibration_ws/devel/share/sm_matrix_archive/cmake/sm_matrix_archiveConfig-version.cmake

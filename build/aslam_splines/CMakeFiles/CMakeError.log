@@ -1,0 +1,96 @@
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a81e1/fast && /usr/bin/make -f CMakeFiles/cmTC_a81e1.dir/build.make CMakeFiles/cmTC_a81e1.dir/build
+make[1]: Entering directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a81e1.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_a81e1.dir/src.c.o   -c /calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_a81e1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a81e1.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_a81e1.dir/src.c.o  -o cmTC_a81e1 
+/usr/bin/ld: CMakeFiles/cmTC_a81e1.dir/src.c.o: in function `main':
+src.c:(.text+0x46): undefined reference to `pthread_create'
+/usr/bin/ld: src.c:(.text+0x52): undefined reference to `pthread_detach'
+/usr/bin/ld: src.c:(.text+0x63): undefined reference to `pthread_join'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_a81e1.dir/build.make:87: cmTC_a81e1] Error 1
+make[1]: Leaving directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_a81e1/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_aa175/fast && /usr/bin/make -f CMakeFiles/cmTC_aa175.dir/build.make CMakeFiles/cmTC_aa175.dir/build
+make[1]: Entering directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aa175.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_aa175.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_aa175
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aa175.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_aa175.dir/CheckFunctionExists.c.o  -o cmTC_aa175  -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_aa175.dir/build.make:87: cmTC_aa175] Error 1
+make[1]: Leaving directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_aa175/fast] Error 2
+
+
+
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: /calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_56d65/fast && /usr/bin/make -f CMakeFiles/cmTC_56d65.dir/build.make CMakeFiles/cmTC_56d65.dir/build
+make[1]: Entering directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56d65.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=sgemm_   -o CMakeFiles/cmTC_56d65.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_56d65
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56d65.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=sgemm_    -rdynamic CMakeFiles/cmTC_56d65.dir/CheckFunctionExists.c.o  -o cmTC_56d65 
+/usr/bin/ld: CMakeFiles/cmTC_56d65.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `sgemm_'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_56d65.dir/build.make:87: cmTC_56d65] Error 1
+make[1]: Leaving directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_56d65/fast] Error 2
+
+
+
+Determining if the function cheev_ exists failed with the following output:
+Change Dir: /calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_28ae9/fast && /usr/bin/make -f CMakeFiles/cmTC_28ae9.dir/build.make CMakeFiles/cmTC_28ae9.dir/build
+make[1]: Entering directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_28ae9.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=cheev_   -o CMakeFiles/cmTC_28ae9.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_28ae9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_28ae9.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=cheev_    -rdynamic CMakeFiles/cmTC_28ae9.dir/CheckFunctionExists.c.o  -o cmTC_28ae9  /usr/lib/x86_64-linux-gnu/libblas.so 
+/usr/bin/ld: CMakeFiles/cmTC_28ae9.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `cheev_'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_28ae9.dir/build.make:88: cmTC_28ae9] Error 1
+make[1]: Leaving directory '/calibration_ws/build/aslam_splines/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_28ae9/fast] Error 2
+
+
+

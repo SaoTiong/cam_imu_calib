@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target sparse_block_matrix[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/sparse_block_matrix.dir/src/matrix_structure.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sparse_block_matrix.dir/src/sparse_helper.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/sparse_block_matrix.dir/src/marginal_covariance_cholesky.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/sparse_block_matrix/lib/libsparse_block_matrix.so[0m
+[100%] Built target sparse_block_matrix

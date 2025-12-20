@@ -1,0 +1,6 @@
+dwe_camera_publisher
+/calibration_ws/devel/.private/dwe_camera_publisher/lib/libdwe_camera_lib.so /calibration_ws/devel/lib/libdwe_camera_lib.so
+/calibration_ws/devel/.private/dwe_camera_publisher/lib/dwe_camera_publisher/test_camera_node /calibration_ws/devel/lib/dwe_camera_publisher/test_camera_node
+/calibration_ws/devel/.private/dwe_camera_publisher/lib/pkgconfig/dwe_camera_publisher.pc /calibration_ws/devel/lib/pkgconfig/dwe_camera_publisher.pc
+/calibration_ws/devel/.private/dwe_camera_publisher/share/dwe_camera_publisher/cmake/dwe_camera_publisherConfig-version.cmake /calibration_ws/devel/share/dwe_camera_publisher/cmake/dwe_camera_publisherConfig-version.cmake
+/calibration_ws/devel/.private/dwe_camera_publisher/share/dwe_camera_publisher/cmake/dwe_camera_publisherConfig.cmake /calibration_ws/devel/share/dwe_camera_publisher/cmake/dwe_camera_publisherConfig.cmake

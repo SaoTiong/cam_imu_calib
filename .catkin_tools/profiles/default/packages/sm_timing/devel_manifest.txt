@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_timing
+/calibration_ws/devel/.private/sm_timing/lib/libsm_timing.so /calibration_ws/devel/lib/libsm_timing.so
+/calibration_ws/devel/.private/sm_timing/lib/pkgconfig/sm_timing.pc /calibration_ws/devel/lib/pkgconfig/sm_timing.pc
+/calibration_ws/devel/.private/sm_timing/share/sm_timing/cmake/sm_timingConfig-version.cmake /calibration_ws/devel/share/sm_timing/cmake/sm_timingConfig-version.cmake
+/calibration_ws/devel/.private/sm_timing/share/sm_timing/cmake/sm_timingConfig.cmake /calibration_ws/devel/share/sm_timing/cmake/sm_timingConfig.cmake

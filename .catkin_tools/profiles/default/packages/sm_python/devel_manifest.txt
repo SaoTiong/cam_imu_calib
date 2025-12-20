@@ -1,0 +1,7 @@
+kalibr/Schweizer-Messer/sm_python
+/calibration_ws/devel/.private/sm_python/lib/libsm_python.so /calibration_ws/devel/lib/libsm_python.so
+/calibration_ws/devel/.private/sm_python/lib/python3/dist-packages/sm/__init__.py /calibration_ws/devel/lib/python3/dist-packages/sm/__init__.py
+/calibration_ws/devel/.private/sm_python/lib/python3/dist-packages/sm/libsm_python.so /calibration_ws/devel/lib/python3/dist-packages/sm/libsm_python.so
+/calibration_ws/devel/.private/sm_python/lib/pkgconfig/sm_python.pc /calibration_ws/devel/lib/pkgconfig/sm_python.pc
+/calibration_ws/devel/.private/sm_python/share/sm_python/cmake/sm_pythonConfig-version.cmake /calibration_ws/devel/share/sm_python/cmake/sm_pythonConfig-version.cmake
+/calibration_ws/devel/.private/sm_python/share/sm_python/cmake/sm_pythonConfig.cmake /calibration_ws/devel/share/sm_python/cmake/sm_pythonConfig.cmake

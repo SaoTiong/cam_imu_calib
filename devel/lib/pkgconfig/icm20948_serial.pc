@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/icm20948_serial/lib/pkgconfig/icm20948_serial.pc

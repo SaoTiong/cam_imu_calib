@@ -1,0 +1,4 @@
+Symlinking /calibration_ws/devel/lib/libsm_random.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/sm_random.pc
+Symlinking /calibration_ws/devel/share/sm_random/cmake/sm_randomConfig-version.cmake
+Symlinking /calibration_ws/devel/share/sm_random/cmake/sm_randomConfig.cmake

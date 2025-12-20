@@ -1,0 +1,8 @@
+prefix=/calibration_ws/devel/.private/sm_random
+
+Name: sm_random
+Description: Description of sm_random
+Version: 0.0.1
+Cflags: -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_random/include
+Libs: -L${prefix}/lib -lsm_random
+Requires: 

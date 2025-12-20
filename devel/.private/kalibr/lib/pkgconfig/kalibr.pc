@@ -1,0 +1,8 @@
+prefix=/calibration_ws/devel/.private/kalibr
+
+Name: kalibr
+Description: Description of kalibr
+Version: 0.0.1
+Cflags: -I/calibration_ws/src/kalibr/aslam_offline_calibration/kalibr/include
+Libs: -L${prefix}/lib -lkalibr
+Requires: 

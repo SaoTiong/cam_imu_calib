@@ -1,0 +1,6 @@
+Symlinking /calibration_ws/devel/lib/libsm_python.so
+Symlinking /calibration_ws/devel/lib/python3/dist-packages/sm/__init__.py
+Symlinking /calibration_ws/devel/lib/python3/dist-packages/sm/libsm_python.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/sm_python.pc
+Symlinking /calibration_ws/devel/share/sm_python/cmake/sm_pythonConfig-version.cmake
+Symlinking /calibration_ws/devel/share/sm_python/cmake/sm_pythonConfig.cmake

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target sm_matrix_archive[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sm_matrix_archive.dir/src/MatrixArchive.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/sm_matrix_archive/lib/libsm_matrix_archive.so[0m
+[100%] Built target sm_matrix_archive

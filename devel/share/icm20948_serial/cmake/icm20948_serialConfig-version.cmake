@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/icm20948_serial/share/icm20948_serial/cmake/icm20948_serialConfig-version.cmake

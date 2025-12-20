@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/aslam_cv_serialization/share/aslam_cv_serialization/cmake/aslam_cv_serializationConfig.cmake

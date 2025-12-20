@@ -1,0 +1,4 @@
+kalibr/Schweizer-Messer/sm_opencv
+/calibration_ws/devel/.private/sm_opencv/lib/pkgconfig/sm_opencv.pc /calibration_ws/devel/lib/pkgconfig/sm_opencv.pc
+/calibration_ws/devel/.private/sm_opencv/share/sm_opencv/cmake/sm_opencvConfig.cmake /calibration_ws/devel/share/sm_opencv/cmake/sm_opencvConfig.cmake
+/calibration_ws/devel/.private/sm_opencv/share/sm_opencv/cmake/sm_opencvConfig-version.cmake /calibration_ws/devel/share/sm_opencv/cmake/sm_opencvConfig-version.cmake

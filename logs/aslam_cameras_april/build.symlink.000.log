@@ -1,0 +1,7 @@
+Symlinking /calibration_ws/devel/lib/libaslam_cameras_april.so
+Symlinking /calibration_ws/devel/lib/libaslam_cameras_april_python.so
+Symlinking /calibration_ws/devel/lib/python3/dist-packages/aslam_cameras_april/__init__.py
+Symlinking /calibration_ws/devel/lib/python3/dist-packages/aslam_cameras_april/libaslam_cameras_april_python.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/aslam_cameras_april.pc
+Symlinking /calibration_ws/devel/share/aslam_cameras_april/cmake/aslam_cameras_aprilConfig-version.cmake
+Symlinking /calibration_ws/devel/share/aslam_cameras_april/cmake/aslam_cameras_aprilConfig.cmake

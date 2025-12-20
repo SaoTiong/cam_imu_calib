@@ -1,0 +1,5 @@
+kalibr/aslam_optimizer/aslam_backend_expressions
+/calibration_ws/devel/.private/aslam_backend_expressions/lib/libaslam_backend_expressions.so /calibration_ws/devel/lib/libaslam_backend_expressions.so
+/calibration_ws/devel/.private/aslam_backend_expressions/lib/pkgconfig/aslam_backend_expressions.pc /calibration_ws/devel/lib/pkgconfig/aslam_backend_expressions.pc
+/calibration_ws/devel/.private/aslam_backend_expressions/share/aslam_backend_expressions/cmake/aslam_backend_expressionsConfig-version.cmake /calibration_ws/devel/share/aslam_backend_expressions/cmake/aslam_backend_expressionsConfig-version.cmake
+/calibration_ws/devel/.private/aslam_backend_expressions/share/aslam_backend_expressions/cmake/aslam_backend_expressionsConfig.cmake /calibration_ws/devel/share/aslam_backend_expressions/cmake/aslam_backend_expressionsConfig.cmake

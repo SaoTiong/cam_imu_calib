@@ -1,0 +1,4 @@
+Symlinking /calibration_ws/devel/lib/libaslam_imgproc.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/aslam_imgproc.pc
+Symlinking /calibration_ws/devel/share/aslam_imgproc/cmake/aslam_imgprocConfig.cmake
+Symlinking /calibration_ws/devel/share/aslam_imgproc/cmake/aslam_imgprocConfig-version.cmake

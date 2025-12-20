@@ -1,0 +1,5 @@
+Symlinking /calibration_ws/devel/lib/libsparse_block_matrix.so
+Symlinking /calibration_ws/devel/lib/pkgconfig/sparse_block_matrix.pc
+Symlinking /calibration_ws/devel/share/sparse_block_matrix/cmake/sparse_block_matrix-extras.cmake
+Symlinking /calibration_ws/devel/share/sparse_block_matrix/cmake/sparse_block_matrixConfig-version.cmake
+Symlinking /calibration_ws/devel/share/sparse_block_matrix/cmake/sparse_block_matrixConfig.cmake

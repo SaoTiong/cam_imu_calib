@@ -1,0 +1,4 @@
+imu_topic: "/icm20948/imu"
+imu_rate: 480
+measure_rate: 120
+sequence_time: 10800

@@ -1,0 +1,8 @@
+prefix=/calibration_ws/devel/.private/aslam_cv_backend
+
+Name: aslam_cv_backend
+Description: Description of aslam_cv_backend
+Version: 0.0.1
+Cflags: -I/calibration_ws/src/kalibr/aslam_cv/aslam_cv_backend/include
+Libs: -L${prefix}/lib -laslam_cv_backend
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/calibration_ws/install
+
+Name: sm_property_tree
+Description: Description of sm_property_tree
+Version: 0.0.1
+Cflags: -I${prefix}/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include -I/usr/include
+Libs: -L${prefix}/lib -lsm_property_tree
+Requires: sm_common

@@ -1,0 +1,8 @@
+prefix=/calibration_ws/devel/.private/aslam_backend_expressions
+
+Name: aslam_backend_expressions
+Description: Description of aslam_backend_expressions
+Version: 0.0.1
+Cflags: -I/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_expressions/include
+Libs: -L${prefix}/lib -laslam_backend_expressions
+Requires: sparse_block_matrix

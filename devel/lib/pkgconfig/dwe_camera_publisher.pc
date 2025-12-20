@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/dwe_camera_publisher/lib/pkgconfig/dwe_camera_publisher.pc

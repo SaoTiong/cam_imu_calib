@@ -1,0 +1,5 @@
+kalibr/aslam_incremental_calibration/incremental_calibration
+/calibration_ws/devel/.private/incremental_calibration/lib/libincremental_calibration.so /calibration_ws/devel/lib/libincremental_calibration.so
+/calibration_ws/devel/.private/incremental_calibration/lib/pkgconfig/incremental_calibration.pc /calibration_ws/devel/lib/pkgconfig/incremental_calibration.pc
+/calibration_ws/devel/.private/incremental_calibration/share/incremental_calibration/cmake/incremental_calibrationConfig-version.cmake /calibration_ws/devel/share/incremental_calibration/cmake/incremental_calibrationConfig-version.cmake
+/calibration_ws/devel/.private/incremental_calibration/share/incremental_calibration/cmake/incremental_calibrationConfig.cmake /calibration_ws/devel/share/incremental_calibration/cmake/incremental_calibrationConfig.cmake

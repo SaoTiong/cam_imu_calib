@@ -1,0 +1,5 @@
+kalibr/catkin_simple
+/calibration_ws/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc /calibration_ws/devel/lib/pkgconfig/catkin_simple.pc
+/calibration_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake /calibration_ws/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
+/calibration_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig.cmake /calibration_ws/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
+/calibration_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake /calibration_ws/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake

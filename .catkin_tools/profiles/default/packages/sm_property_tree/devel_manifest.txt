@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_property_tree
+/calibration_ws/devel/.private/sm_property_tree/lib/libsm_property_tree.so /calibration_ws/devel/lib/libsm_property_tree.so
+/calibration_ws/devel/.private/sm_property_tree/lib/pkgconfig/sm_property_tree.pc /calibration_ws/devel/lib/pkgconfig/sm_property_tree.pc
+/calibration_ws/devel/.private/sm_property_tree/share/sm_property_tree/cmake/sm_property_treeConfig.cmake /calibration_ws/devel/share/sm_property_tree/cmake/sm_property_treeConfig.cmake
+/calibration_ws/devel/.private/sm_property_tree/share/sm_property_tree/cmake/sm_property_treeConfig-version.cmake /calibration_ws/devel/share/sm_property_tree/cmake/sm_property_treeConfig-version.cmake

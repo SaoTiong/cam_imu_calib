@@ -1,0 +1,6 @@
+kalibr/Schweizer-Messer/sm_eigen
+/calibration_ws/devel/.private/sm_eigen/lib/libsm_eigen.so /calibration_ws/devel/lib/libsm_eigen.so
+/calibration_ws/devel/.private/sm_eigen/lib/pkgconfig/sm_eigen.pc /calibration_ws/devel/lib/pkgconfig/sm_eigen.pc
+/calibration_ws/devel/.private/sm_eigen/share/sm_eigen/cmake/sm_eigenConfig-version.cmake /calibration_ws/devel/share/sm_eigen/cmake/sm_eigenConfig-version.cmake
+/calibration_ws/devel/.private/sm_eigen/share/sm_eigen/cmake/sm_eigenConfig.cmake /calibration_ws/devel/share/sm_eigen/cmake/sm_eigenConfig.cmake
+/calibration_ws/devel/.private/sm_eigen/share/sm_eigen/cmake/sm_eigen-extras.cmake /calibration_ws/devel/share/sm_eigen/cmake/sm_eigen-extras.cmake

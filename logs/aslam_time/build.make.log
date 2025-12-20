@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target aslam_time[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/aslam_time.dir/src/duration.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/aslam_time.dir/src/time.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/aslam_time/lib/libaslam_time.so[0m
+[100%] Built target aslam_time

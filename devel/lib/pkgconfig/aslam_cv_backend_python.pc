@@ -1,0 +1,1 @@
+/calibration_ws/devel/.private/aslam_cv_backend_python/lib/pkgconfig/aslam_cv_backend_python.pc
