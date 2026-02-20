@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /calibration_ws/devel/.private/sparse_block_matrix/setup.sh

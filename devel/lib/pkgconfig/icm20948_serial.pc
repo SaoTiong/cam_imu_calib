@@ -1,1 +1,8 @@
-/calibration_ws/devel/.private/icm20948_serial/lib/pkgconfig/icm20948_serial.pc
+prefix=/home/tong/DWE/cam_imu_calib/devel
+
+Name: icm20948_serial
+Description: Description of icm20948_serial
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

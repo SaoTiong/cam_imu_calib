@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libbsplines.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/bsplines.pc
-Symlinking /calibration_ws/devel/share/bsplines/cmake/bsplinesConfig-version.cmake
-Symlinking /calibration_ws/devel/share/bsplines/cmake/bsplinesConfig.cmake

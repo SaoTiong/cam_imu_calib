@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -Wall -Wextra -O3 -DNDEBUG  -shared -Wl,-soname,libaslam_imgproc.so -o /calibration_ws/devel/.private/aslam_imgproc/lib/libaslam_imgproc.so CMakeFiles/aslam_imgproc.dir/src/UndistorterBase.cpp.o  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0 

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target sm_eigen[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/sm_eigen.dir/src/random.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/sm_eigen/lib/libsm_eigen.so[0m
-[100%] Built target sm_eigen

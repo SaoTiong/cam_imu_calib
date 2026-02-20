@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target aslam_imgproc[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/aslam_imgproc.dir/src/UndistorterBase.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/aslam_imgproc/lib/libaslam_imgproc.so[0m
-[100%] Built target aslam_imgproc

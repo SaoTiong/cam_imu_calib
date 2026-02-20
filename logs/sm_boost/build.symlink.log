@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libsm_boost.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/sm_boost.pc
-Symlinking /calibration_ws/devel/share/sm_boost/cmake/sm_boostConfig.cmake
-Symlinking /calibration_ws/devel/share/sm_boost/cmake/sm_boostConfig-version.cmake

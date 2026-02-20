@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libsm_common.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/sm_common.pc
-Symlinking /calibration_ws/devel/share/sm_common/cmake/sm_commonConfig-version.cmake
-Symlinking /calibration_ws/devel/share/sm_common/cmake/sm_commonConfig.cmake

@@ -1,5 +1,0 @@
-[35m[1mScanning dependencies of target sm_timing[0m
-[ 33%] [32mBuilding CXX object CMakeFiles/sm_timing.dir/src/Timer.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/sm_timing.dir/src/NsecTimeUtilities.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/sm_timing/lib/libsm_timing.so[0m
-[100%] Built target sm_timing

@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libsm_kinematics.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/sm_kinematics.pc
-Symlinking /calibration_ws/devel/share/sm_kinematics/cmake/sm_kinematicsConfig.cmake
-Symlinking /calibration_ws/devel/share/sm_kinematics/cmake/sm_kinematicsConfig-version.cmake

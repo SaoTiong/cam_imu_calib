@@ -1,0 +1,8 @@
+prefix=/home/tong/DWE/cam_imu_calib/devel
+
+Name: allan_variance_ros
+Description: Description of allan_variance_ros
+Version: 0.0.1
+Cflags: -I/home/tong/DWE/cam_imu_calib/src/allan_variance_ros/include
+Libs: -L${prefix}/lib -lallan_variance_ros /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.6.2
+Requires: geometry_msgs sensor_msgs rospy tf2_geometry_msgs tf2_ros rosbag

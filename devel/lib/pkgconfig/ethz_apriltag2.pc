@@ -1,1 +1,0 @@
-/calibration_ws/devel/.private/ethz_apriltag2/lib/pkgconfig/ethz_apriltag2.pc

@@ -1,5 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libethz_apriltag2.so
-Symlinking /calibration_ws/devel/lib/ethz_apriltag2/apriltags_demo
-Symlinking /calibration_ws/devel/lib/pkgconfig/ethz_apriltag2.pc
-Symlinking /calibration_ws/devel/share/ethz_apriltag2/cmake/ethz_apriltag2Config-version.cmake
-Symlinking /calibration_ws/devel/share/ethz_apriltag2/cmake/ethz_apriltag2Config.cmake

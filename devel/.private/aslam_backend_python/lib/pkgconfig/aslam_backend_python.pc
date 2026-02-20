@@ -1,8 +1,0 @@
-prefix=/calibration_ws/devel/.private/aslam_backend_python
-
-Name: aslam_backend_python
-Description: Description of aslam_backend_python
-Version: 0.0.1
-Cflags: -I/calibration_ws/src/kalibr/aslam_optimizer/aslam_backend_python/include
-Libs: -L${prefix}/lib 
-Requires: 

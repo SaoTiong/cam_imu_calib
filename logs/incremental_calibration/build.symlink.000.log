@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libincremental_calibration.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/incremental_calibration.pc
-Symlinking /calibration_ws/devel/share/incremental_calibration/cmake/incremental_calibrationConfig-version.cmake
-Symlinking /calibration_ws/devel/share/incremental_calibration/cmake/incremental_calibrationConfig.cmake

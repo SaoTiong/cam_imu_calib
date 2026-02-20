@@ -1,9 +1,0 @@
-[35m[1mScanning dependencies of target sm_logging[0m
-[ 14%] [32mBuilding CXX object CMakeFiles/sm_logging.dir/src/Logger.cpp.o[0m
-[ 28%] [32mBuilding CXX object CMakeFiles/sm_logging.dir/src/StdOutLogger.cpp.o[0m
-[ 42%] [32mBuilding CXX object CMakeFiles/sm_logging.dir/src/LoggingEvent.cpp.o[0m
-[ 57%] [32mBuilding CXX object CMakeFiles/sm_logging.dir/src/LoggingGlobals.cpp.o[0m
-[ 71%] [32mBuilding CXX object CMakeFiles/sm_logging.dir/src/Formatter.cpp.o[0m
-[ 85%] [32mBuilding CXX object CMakeFiles/sm_logging.dir/src/Tokens.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /calibration_ws/devel/.private/sm_logging/lib/libsm_logging.so[0m
-[100%] Built target sm_logging

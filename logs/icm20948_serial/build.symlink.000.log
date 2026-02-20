@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/icm20948_serial/icm20948_serial_node.py
-Symlinking /calibration_ws/devel/lib/pkgconfig/icm20948_serial.pc
-Symlinking /calibration_ws/devel/share/icm20948_serial/cmake/icm20948_serialConfig-version.cmake
-Symlinking /calibration_ws/devel/share/icm20948_serial/cmake/icm20948_serialConfig.cmake

@@ -1,4 +1,4 @@
-prefix=/calibration_ws/install
+prefix=/home/tong/DWE/cam_imu_calib/install
 
 Name: icm20948_serial
 Description: Description of icm20948_serial

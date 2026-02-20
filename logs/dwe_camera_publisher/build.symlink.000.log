@@ -1,5 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libdwe_camera_lib.so
-Symlinking /calibration_ws/devel/lib/dwe_camera_publisher/test_camera_node
-Symlinking /calibration_ws/devel/lib/pkgconfig/dwe_camera_publisher.pc
-Symlinking /calibration_ws/devel/share/dwe_camera_publisher/cmake/dwe_camera_publisherConfig-version.cmake
-Symlinking /calibration_ws/devel/share/dwe_camera_publisher/cmake/dwe_camera_publisherConfig.cmake

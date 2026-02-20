@@ -1,1 +1,0 @@
-/calibration_ws/devel/.private/opencv2_catkin/share/opencv2_catkin/cmake/opencv2_catkinConfig-version.cmake

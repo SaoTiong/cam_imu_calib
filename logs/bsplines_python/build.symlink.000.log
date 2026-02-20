@@ -1,6 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libbsplines_python.so
-Symlinking /calibration_ws/devel/lib/python3/dist-packages/bsplines/__init__.py
-Symlinking /calibration_ws/devel/lib/python3/dist-packages/bsplines/libbsplines_python.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/bsplines_python.pc
-Symlinking /calibration_ws/devel/share/bsplines_python/cmake/bsplines_pythonConfig-version.cmake
-Symlinking /calibration_ws/devel/share/bsplines_python/cmake/bsplines_pythonConfig.cmake

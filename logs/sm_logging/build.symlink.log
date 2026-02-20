@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libsm_logging.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/sm_logging.pc
-Symlinking /calibration_ws/devel/share/sm_logging/cmake/sm_loggingConfig-version.cmake
-Symlinking /calibration_ws/devel/share/sm_logging/cmake/sm_loggingConfig.cmake

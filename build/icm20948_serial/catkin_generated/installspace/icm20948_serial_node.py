@@ -42,7 +42,7 @@ class SerialImuPublisher:
 
         rospy.init_node("icm20948_serial_node")
 
-        port = rospy.get_param("~port", "/dev/ttyUSB0")
+        port = rospy.get_param("~port", "/dev/ttyACM0")
         baud_rate = rospy.get_param("~baud_rate", 115200)
         timeout = rospy.get_param("~timeout", 0.02)
         topic = rospy.get_param("~topic", "/icm20948/imu")

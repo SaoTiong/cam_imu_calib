@@ -1,8 +1,0 @@
-prefix=/calibration_ws/devel/.private/sm_logging
-
-Name: sm_logging
-Description: Description of sm_logging
-Version: 0.0.1
-Cflags: -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_logging/include
-Libs: -L${prefix}/lib -lsm_logging
-Requires: 

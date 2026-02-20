@@ -1,8 +1,0 @@
-prefix=/calibration_ws/devel/.private/opencv2_catkin
-
-Name: opencv2_catkin
-Description: Description of opencv2_catkin
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

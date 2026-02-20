@@ -1,4 +1,0 @@
-Symlinking /calibration_ws/devel/lib/libsm_property_tree.so
-Symlinking /calibration_ws/devel/lib/pkgconfig/sm_property_tree.pc
-Symlinking /calibration_ws/devel/share/sm_property_tree/cmake/sm_property_treeConfig.cmake
-Symlinking /calibration_ws/devel/share/sm_property_tree/cmake/sm_property_treeConfig-version.cmake

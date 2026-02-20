@@ -1,1 +1,0 @@
-/calibration_ws/devel/.private/aslam_splines_python/lib/pkgconfig/aslam_splines_python.pc

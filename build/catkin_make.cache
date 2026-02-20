@@ -1,0 +1,2 @@
+allan_variance_ros:icm20948_serial
+-DCATKIN_DEVEL_PREFIX=/home/tong/DWE/cam_imu_calib/devel -DCMAKE_INSTALL_PREFIX=/home/tong/DWE/cam_imu_calib/install -G Unix Makefiles

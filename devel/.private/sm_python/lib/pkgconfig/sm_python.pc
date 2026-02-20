@@ -1,8 +1,0 @@
-prefix=/calibration_ws/devel/.private/sm_python
-
-Name: sm_python
-Description: Description of sm_python
-Version: 0.0.1
-Cflags: -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_python/include -I/calibration_ws/src/kalibr/Schweizer-Messer/numpy_eigen/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_common/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_boost/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_logging/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_matrix_archive/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_property_tree/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_random/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_eigen/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_kinematics/include -I/calibration_ws/src/kalibr/Schweizer-Messer/sm_timing/include -I/usr/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib 
-Requires: sm_common numpy_eigen sm_kinematics sm_timing sm_logging sm_matrix_archive sm_property_tree python_module

@@ -1,6 +1,0 @@
-devel_space: /calibration_ws/devel
-install: false
-install_space: /calibration_ws/install
-profile: default
-source_space: /calibration_ws/src
-workspace: /calibration_ws

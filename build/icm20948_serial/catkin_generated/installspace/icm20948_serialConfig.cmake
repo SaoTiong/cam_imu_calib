@@ -67,14 +67,14 @@ set(icm20948_serial_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(icm20948_serial_SOURCE_PREFIX /calibration_ws/src/icm20948_serial)
-  set(icm20948_serial_DEVEL_PREFIX /calibration_ws/devel/.private/icm20948_serial)
+  set(icm20948_serial_SOURCE_PREFIX /home/tong/DWE/cam_imu_calib/src/icm20948_serial)
+  set(icm20948_serial_DEVEL_PREFIX /home/tong/DWE/cam_imu_calib/devel)
   set(icm20948_serial_INSTALL_PREFIX "")
   set(icm20948_serial_PREFIX ${icm20948_serial_DEVEL_PREFIX})
 else()
   set(icm20948_serial_SOURCE_PREFIX "")
   set(icm20948_serial_DEVEL_PREFIX "")
-  set(icm20948_serial_INSTALL_PREFIX /calibration_ws/install)
+  set(icm20948_serial_INSTALL_PREFIX /home/tong/DWE/cam_imu_calib/install)
   set(icm20948_serial_PREFIX ${icm20948_serial_INSTALL_PREFIX})
 endif()
 
@@ -156,7 +156,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /calibration_ws/install/lib;/calibration_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/tong/DWE/cam_imu_calib/install/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

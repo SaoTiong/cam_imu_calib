@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "icm20948_serial"
-PROJECT_SPACE_DIR = "/calibration_ws/install"
+PROJECT_SPACE_DIR = "/home/tong/DWE/cam_imu_calib/install"
 PROJECT_VERSION = "0.0.1"

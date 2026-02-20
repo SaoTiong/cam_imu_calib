@@ -1,1 +1,0 @@
-/calibration_ws/devel/.private/ethz_apriltag2/share/ethz_apriltag2/cmake/ethz_apriltag2Config.cmake

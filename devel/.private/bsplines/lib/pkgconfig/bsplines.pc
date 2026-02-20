@@ -1,8 +1,0 @@
-prefix=/calibration_ws/devel/.private/bsplines
-
-Name: bsplines
-Description: Description of bsplines
-Version: 0.0.1
-Cflags: -I/calibration_ws/src/kalibr/aslam_nonparametric_estimation/bsplines/include
-Libs: -L${prefix}/lib -lbsplines
-Requires: 
