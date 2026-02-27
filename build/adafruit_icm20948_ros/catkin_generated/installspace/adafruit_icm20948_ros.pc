@@ -1,0 +1,8 @@
+prefix=/home/tong/DWE/DWECal_ws/install
+
+Name: adafruit_icm20948_ros
+Description: Description of adafruit_icm20948_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs

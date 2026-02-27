@@ -1,0 +1,2 @@
+adafruit_icm20948_ros
+-DCATKIN_DEVEL_PREFIX=/home/tong/DWE/DWECal_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tong/DWE/DWECal_ws/install -G Unix Makefiles
