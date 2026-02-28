@@ -15,7 +15,7 @@ if len(sys.argv) < 2:
     sys.exit(1)
 
 bag_file = sys.argv[1]
-topic = sys.argv[2] if len(sys.argv) > 2 else "/icm20948/imu"
+topic = sys.argv[2] if len(sys.argv) > 2 else "/camera/imu"
 duration_limit = float(sys.argv[3]) if len(sys.argv) > 3 else 80.0
 
 bag_path = Path(bag_file)
