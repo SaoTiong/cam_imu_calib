@@ -1,0 +1,9 @@
+[submodule "src/allan_variance_ros"]
+	path = src/allan_variance_ros
+	url = https://github.com/SaoTiong/allan_variance_ros.git
+[submodule "src/kalibr"]
+	path = src/kalibr
+	url = https://github.com/SaoTiong/kalibr.git
+[submodule "src/synced_cameras_ros/BaseCameraAPI"]
+	path = src/synced_cameras_ros/BaseCameraAPI
+	url = git@github.com:DeepWaterExploration/BaseCameraAPI.git
