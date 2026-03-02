@@ -67,7 +67,8 @@ sensor_msgs::Image BuildImageMsg(const std::unique_ptr<CopiedFrame>& frame,
     return msg;
   }
 
-  msg.header.stamp.fromNSec(frame->timestamp_us * 1000ULL);
+  // msg.header.stamp.fromNSec(frame->timestamp_us * 1000ULL);
+  msg.header.stamp = ros::Time::now();
   msg.header.frame_id = frame_id;
   msg.height = decoded_height;
   msg.width = decoded_width;

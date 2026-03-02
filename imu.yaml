@@ -1,11 +1,25 @@
-#Accelerometer
-accelerometer_noise_density: 0.0027202813325452892 
-accelerometer_random_walk: 8.037730739333254e-05 
+# #Accelerometer
+# accelerometer_noise_density: 0.0027202813325452892 
+# accelerometer_random_walk: 8.037730739333254e-05 
 
-#Gyroscope
-gyroscope_noise_density: 0.00018520291999820414 
-gyroscope_random_walk: 4.447855259135274e-06 
+# #Gyroscope
+# gyroscope_noise_density: 0.00018520291999820414 
+# gyroscope_random_walk: 4.447855259135274e-06 
 
-rostopic: '/icm20948/imu' 
-update_rate: 284 
+# rostopic: '/icm20948/imu' 
+# update_rate: 284 
 
+# Accelerometer
+# Original Noise: 0.00272028 -> x5 = 0.0136014
+# Original Walk:  0.00008037 -> x10 = 0.0008037
+accelerometer_noise_density: 0.01360140666
+accelerometer_random_walk: 0.00080377307
+
+# Gyroscope
+# Original Noise: 0.00018520 -> x5 = 0.0009260
+# Original Walk:  0.00000444 -> x10 = 0.0000444
+gyroscope_noise_density: 0.00092601459
+gyroscope_random_walk: 0.00004447855
+
+rostopic: '/icm20948/imu'
+update_rate: 284
